@@ -1,11 +1,6 @@
 ### Hi there, I'm Lucia 👋
 :zap: I work at <a href="https://www.microsoft.com/">Microsoft</a> 
 
-
-<!-- Followers Count and Views Count -->
-![](https://img.shields.io/github/followers/luciaharcekova?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/luciaharcekova)
-
 <!--
  Social Links
 
